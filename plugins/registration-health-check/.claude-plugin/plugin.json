@@ -1,0 +1,8 @@
+{
+  "name": "registration-health-check",
+  "description": "Check attendee registration pace, status breakdown, and profile completeness for a vFairs event, and flag whether registration is on track against a target.",
+  "version": "1.0.0",
+  "author": {
+    "name": "vFairs"
+  }
+}

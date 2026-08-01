@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "vfairs",
+  "version": "1.0.0",
+  "description": "Official vFairs skills for use alongside the vFairs MCP server — registration health, exhibitor engagement, session analytics, and more.",
+  "owner": {
+    "name": "vFairs",
+    "email": "support@vfairs.com"
+  },
+  "plugins": [
+    {
+      "name": "registration-health-check",
+      "description": "Check attendee registration pace, status breakdown, and profile completeness for a vFairs event, and flag whether registration is on track against a target.",
+      "source": "./plugins/registration-health-check",
+      "version": "1.0.0",
+      "category": "analytics"
+    }
+  ]
+}
