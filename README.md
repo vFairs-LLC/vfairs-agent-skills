@@ -5,9 +5,26 @@ Official Claude skills for use alongside the vFairs MCP server. These skills giv
 ## Requirements
 
 - The vFairs MCP connector must be connected in your Claude account (Claude Code, Cowork, or claude.ai).
-- Claude Code or Cowork, to install via the plugin marketplace below.
 
-## Install
+
+## Install (claude.ai or Cowork — no coding required)
+
+If you're using Claude in your browser or the Cowork app, you don't need any commands:
+
+1. Open Claude and click **Customize** (usually in the sidebar or settings menu).
+2. Go to the **Plugins** tab.
+3. Under **Personal plugins**, click the **+** button.
+4. Select **Add marketplace**.
+5. Paste this into the box: `vFairs-LLC/vfairs-agent-skills`
+6. Press Enter / click **Add**. You'll now see **vfairs-skills** listed as an available marketplace.
+7. Click into it and find `registration-health-check`.
+8. Click **Install**, then review and approve the permissions it asks for (this lets it talk to the vFairs MCP connector).
+
+That's it — no terminal, no code. The skill is now available any time you chat with Claude.
+
+Before you start: make sure the vFairs MCP connector is already connected to your Claude account (ask your admin if you're not sure). The skill needs that connection to actually pull event data.
+
+## Install (Claude Code)
 
 Add this marketplace once:
 
@@ -26,6 +43,7 @@ Browse everything available:
 ```
 /plugin marketplace browse vfairs-skills
 ```
+
 
 ## Usage
 
