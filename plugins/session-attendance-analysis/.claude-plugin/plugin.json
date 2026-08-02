@@ -1,0 +1,8 @@
+{
+  "name": "session-attendance-analysis",
+  "description": "Rank vFairs event sessions by actual attendance, flag zero-attendance and underattended sessions, and surface scheduling conflicts where popular sessions ran in the same time slot.",
+  "version": "1.0.0",
+  "author": {
+    "name": "vFairs"
+  }
+}

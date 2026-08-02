@@ -66,6 +66,7 @@ Third-party marketplaces don't auto-update by default. Pull the latest version w
 |---|---|
 | `registration-health-check` | Attendee registration pace, status breakdown, profile completeness, and target tracking |
 | `pre-event-readiness-audit` | Pre-launch checklist for sessions, speakers, and booths, with an overall readiness score |
+| `session-attendance-analysis` | Session popularity ranking by actual attendance, zero-attendance flags, and scheduling conflicts |
 
 ## Support
 

@@ -20,10 +20,11 @@ Trigger on requests like:
 
 ## Output format — read this before doing anything else
 
-**This skill is table-first. Every response must contain at least two markdown tables.** Organizers scan a checklist; they don't read paragraphs describing which items are incomplete.
+**This skill is table and charts first. Every response must contain at least two markdown tables and a chart if possible** Organizers scan a ranked list; they don't read paragraphs describing which sessions did well.
 
 Rules:
 - Never write a statistic in prose that could be a table row.
+- Find opportunities to create charts when possible. This could be bar charts, pie chart or something else.
 - Prose is for the verdict and the recommendation only — the "so what," not the "what."
 - Minimum tables per response: the **Readiness Scorecard** (Step 6) and at least one category **Detail** table (Steps 3–5) for whichever category has issues. If a category has zero issues, say so in one line instead of an empty table — don't render an empty table.
 - Put the headline verdict in one or two sentences *above* the first table, then the tables, then a short "What to do next" list.

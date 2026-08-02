@@ -20,10 +20,11 @@ Trigger on requests like:
 
 ## Output format — read this before doing anything else
 
-**This skill is table-first. Every response must contain at least two markdown tables.** Event organizers scan numbers; they don't read paragraphs of statistics. Numbers belong in tables, not in sentences.
+**This skill is table and charts first. Every response must contain at least two markdown tables and a chart if possible** Organizers scan a ranked list; they don't read paragraphs describing which sessions did well.
 
 Rules:
 - Never write a statistic in prose that could be a table row. If a sentence contains more than two numbers, it should have been a table.
+- Find opportunities to create charts when possible. This could be bar charts, pie chart or something else.
 - Prose is for the verdict and the recommendation only — the "so what," not the "what."
 - Minimum tables per response: **Status Summary** (Step 2) and **Registration Pace** (Step 2). Add **Target Tracking** (Step 4) whenever a target was given, and **Data Quality** (Step 3) whenever issues are found.
 - Put the headline verdict in one or two sentences *above* the first table, then the tables, then a short "What to do next" list.
