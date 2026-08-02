@@ -1,6 +1,6 @@
 {
   "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
-  "name": "vfairs",
+  "name": "vfairs-skills",
   "version": "1.0.0",
   "description": "Official vFairs skills for use alongside the vFairs MCP server — registration health, exhibitor engagement, session analytics, and more.",
   "owner": {

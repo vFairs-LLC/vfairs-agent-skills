@@ -18,13 +18,13 @@ Add this marketplace once:
 Then install the skill(s) you want:
 
 ```
-/plugin install registration-health-check@vfairs
+/plugin install registration-health-check@vfairs-skills
 ```
 
 Browse everything available:
 
 ```
-/plugin marketplace browse vfairs
+/plugin marketplace browse vfairs-skills
 ```
 
 ## Usage
@@ -38,7 +38,7 @@ Once installed, just ask naturally — Claude will invoke the skill automaticall
 Third-party marketplaces don't auto-update by default. Pull the latest version with:
 
 ```
-/plugin marketplace update vfairs
+/plugin marketplace update vfairs-skills
 /reload-plugins
 ```
 
