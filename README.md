@@ -69,6 +69,10 @@ Third-party marketplaces don't auto-update by default. Pull the latest version w
 | `session-attendance-analysis` | Session popularity ranking by actual attendance, zero-attendance flags, and scheduling conflicts |
 | `exhibitor-engagement-report` | Booth traffic ranking, underperforming/zero-engagement flags, and sponsor-tier context |
 | `at-risk-attendee-identifier` | Mid-event re-engagement list, segmented by never-logged-in vs. logged-in-with-no-activity |
+| `survey-insights-sentiment-digest` | Survey/quiz/poll digest — rating distributions, quiz accuracy, open-ended themes, and low-satisfaction flags |
+| `speaker-performance-recap` | Per-speaker attendance and ratings report for speaker relations and future invite decisions |
+| `post-event-executive-summary` | One-page, stakeholder-ready wrap-up combining turnout, top sessions, exhibitor performance, and sentiment |
+| `year-over-year-comparison` | Side-by-side KPI comparison across two or more instances of an event, with size/type mismatch handling |
 
 ## Support
 

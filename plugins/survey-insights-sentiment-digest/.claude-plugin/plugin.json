@@ -1,0 +1,8 @@
+{
+  "name": "survey-insights-sentiment-digest",
+  "description": "Aggregate vFairs survey, quiz, and poll responses into structured breakdowns and themed digests, and flag low-satisfaction areas — covering both structured (rating/choice) and open-ended responses.",
+  "version": "1.0.0",
+  "author": {
+    "name": "vFairs"
+  }
+}

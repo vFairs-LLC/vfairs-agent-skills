@@ -1,0 +1,8 @@
+{
+  "name": "post-event-executive-summary",
+  "description": "Stakeholder-ready, one-page wrap-up of a vFairs event — turnout, top sessions, exhibitor performance, and survey sentiment — in headline numbers only, no data dump.",
+  "version": "1.0.0",
+  "author": {
+    "name": "vFairs"
+  }
+}

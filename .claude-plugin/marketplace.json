@@ -42,6 +42,34 @@
       "source": "./plugins/at-risk-attendee-identifier",
       "version": "1.0.0",
       "category": "analytics"
+    },
+    {
+      "name": "survey-insights-sentiment-digest",
+      "description": "Aggregate vFairs survey, quiz, and poll responses into structured breakdowns and themed digests, and flag low-satisfaction areas — covering both structured (rating/choice) and open-ended responses.",
+      "source": "./plugins/survey-insights-sentiment-digest",
+      "version": "1.0.0",
+      "category": "analytics"
+    },
+    {
+      "name": "speaker-performance-recap",
+      "description": "Per-speaker performance report for a vFairs event — session attendance drawn and ratings/sentiment where survey data supports it — for speaker relations and future invite decisions.",
+      "source": "./plugins/speaker-performance-recap",
+      "version": "1.0.0",
+      "category": "analytics"
+    },
+    {
+      "name": "post-event-executive-summary",
+      "description": "Stakeholder-ready, one-page wrap-up of a vFairs event — turnout, top sessions, exhibitor performance, and survey sentiment — in headline numbers only, no data dump.",
+      "source": "./plugins/post-event-executive-summary",
+      "version": "1.0.0",
+      "category": "analytics"
+    },
+    {
+      "name": "year-over-year-comparison",
+      "description": "Compare KPIs (turnout, engagement, session attendance, exhibitor traffic, survey sentiment) across two or more instances of a vFairs event, with explicit handling for events of different sizes or types.",
+      "source": "./plugins/year-over-year-comparison",
+      "version": "1.0.0",
+      "category": "analytics"
     }
   ]
 }

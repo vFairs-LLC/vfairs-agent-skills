@@ -1,0 +1,8 @@
+{
+  "name": "speaker-performance-recap",
+  "description": "Per-speaker performance report for a vFairs event — session attendance drawn and ratings/sentiment where survey data supports it — for speaker relations and future invite decisions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "vFairs"
+  }
+}

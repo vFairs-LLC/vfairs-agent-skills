@@ -1,0 +1,8 @@
+{
+  "name": "year-over-year-comparison",
+  "description": "Compare KPIs (turnout, engagement, session attendance, exhibitor traffic, survey sentiment) across two or more instances of a vFairs event, with explicit handling for events of different sizes or types.",
+  "version": "1.0.0",
+  "author": {
+    "name": "vFairs"
+  }
+}
