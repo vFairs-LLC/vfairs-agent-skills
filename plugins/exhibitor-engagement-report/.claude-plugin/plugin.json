@@ -1,0 +1,8 @@
+{
+  "name": "exhibitor-engagement-report",
+  "description": "Rank vFairs event booths by visitor traffic and interaction volume, flag underperforming and zero-engagement booths, and add sponsor-tier context so a quiet platinum sponsor stands out from a quiet bronze one.",
+  "version": "1.0.0",
+  "author": {
+    "name": "vFairs"
+  }
+}
