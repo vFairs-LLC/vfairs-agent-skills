@@ -14,6 +14,13 @@
       "source": "./plugins/registration-health-check",
       "version": "1.0.0",
       "category": "analytics"
+    },
+    {
+      "name": "pre-event-readiness-audit",
+      "description": "Cross-check sessions, speakers, and booths for missing info before an event goes live, and produce a readiness checklist with a pass/fail per item and an overall readiness score.",
+      "source": "./plugins/pre-event-readiness-audit",
+      "version": "1.0.0",
+      "category": "analytics"
     }
   ]
 }

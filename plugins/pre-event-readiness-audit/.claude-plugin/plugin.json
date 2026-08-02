@@ -1,0 +1,8 @@
+{
+  "name": "pre-event-readiness-audit",
+  "description": "Cross-check sessions, speakers, and booths for missing info before an event goes live, and produce a readiness checklist with a pass/fail per item and an overall readiness score.",
+  "version": "1.0.0",
+  "author": {
+    "name": "vFairs"
+  }
+}
