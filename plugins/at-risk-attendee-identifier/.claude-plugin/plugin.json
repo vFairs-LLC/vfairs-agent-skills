@@ -1,0 +1,8 @@
+{
+  "name": "at-risk-attendee-identifier",
+  "description": "Identify registered attendees with little or no engagement mid-event, segmented into never-logged-in vs. logged-in-but-no-booth/session-activity, so organizers can trigger the right re-engagement action for each group.",
+  "version": "1.0.0",
+  "author": {
+    "name": "vFairs"
+  }
+}

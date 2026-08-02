@@ -35,6 +35,13 @@
       "source": "./plugins/exhibitor-engagement-report",
       "version": "1.0.0",
       "category": "analytics"
+    },
+    {
+      "name": "at-risk-attendee-identifier",
+      "description": "Identify registered attendees with little or no engagement mid-event, segmented into never-logged-in vs. logged-in-but-no-booth/session-activity, so organizers can trigger the right re-engagement action for each group.",
+      "source": "./plugins/at-risk-attendee-identifier",
+      "version": "1.0.0",
+      "category": "analytics"
     }
   ]
 }

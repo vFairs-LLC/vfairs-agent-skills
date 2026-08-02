@@ -68,6 +68,7 @@ Third-party marketplaces don't auto-update by default. Pull the latest version w
 | `pre-event-readiness-audit` | Pre-launch checklist for sessions, speakers, and booths, with an overall readiness score |
 | `session-attendance-analysis` | Session popularity ranking by actual attendance, zero-attendance flags, and scheduling conflicts |
 | `exhibitor-engagement-report` | Booth traffic ranking, underperforming/zero-engagement flags, and sponsor-tier context |
+| `at-risk-attendee-identifier` | Mid-event re-engagement list, segmented by never-logged-in vs. logged-in-with-no-activity |
 
 ## Support
 
